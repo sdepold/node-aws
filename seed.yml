@@ -1,0 +1,8 @@
+---
+  name: aws
+  description: Library for accessing Amazon Web Services
+  tags: aws amazon s3
+  version: 0.0.1
+  dependencies:
+    - crypto
+    - restler

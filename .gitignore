@@ -1,2 +1,3 @@
 *.seed
 test/*
+spec/credentials.js

@@ -7,5 +7,5 @@ credentials = require(__dirname + "/credentials")
 kiwi.require("NoSpec")
 
 new NoSpec()
-  .load(__dirname + "/s3.js")
+  .load(__dirname + "/s3")
   .run()
